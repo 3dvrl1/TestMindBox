@@ -1,0 +1,11 @@
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\bin\Debug\net7.0\MindBox.deps.json
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\bin\Debug\net7.0\MindBox.dll
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\bin\Debug\net7.0\MindBox.pdb
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\obj\Debug\net7.0\MindBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\obj\Debug\net7.0\MindBox.AssemblyInfoInputs.cache
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\obj\Debug\net7.0\MindBox.AssemblyInfo.cs
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\obj\Debug\net7.0\MindBox.csproj.CoreCompileInputs.cache
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\obj\Debug\net7.0\MindBox.dll
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\obj\Debug\net7.0\refint\MindBox.dll
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\obj\Debug\net7.0\MindBox.pdb
+C:\Users\3dv4l\OneDrive\Рабочий стол\Собес\MindBoxTestQuest\MindBox\obj\Debug\net7.0\ref\MindBox.dll

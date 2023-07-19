@@ -1,0 +1,4 @@
+select prod.Name, cat.Name
+from Products prod
+left join ProductCategory prc ON prc.ProductId = prod.Id
+left join Categories cat ON cat.Id = prc.CategoryId
